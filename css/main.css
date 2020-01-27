@@ -1,0 +1,22 @@
+#section-b .row{
+    background: red;
+    margin-top: 30px;
+}
+#section-b .card img{
+    width: 100px;
+    height: 200px;
+}
+#section-b .card img:hover{
+    opacity: 0.2;
+}
+#section-b .card:hover{
+    box-shadow: 3px 3px 3px 3px #f2ff4c;
+}
+
+#section-c #section-c-lef{
+    padding: 20px;
+    font-family: monospace;
+    font-weight: bolder;
+    text-align: center;
+}
+#secti
